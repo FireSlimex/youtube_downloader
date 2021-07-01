@@ -7,6 +7,7 @@ We assume no liability, downloading YouTube videos is not legal in any case!!!
 Required Packages:
 ```
 pytube
+os
 ```
 Required Software:
 ```
